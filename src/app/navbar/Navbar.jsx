@@ -7,7 +7,7 @@ function Navbar() {
         <div className={style.navbar}>
             <div>
                 <LuListTodo size="50px" color='white'/>
-                <h1>ToDo App - UPDATED</h1>
+                <h1>ToDo App - UPDATED - GIT</h1>
             </div>
         </div>
     )
